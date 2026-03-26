@@ -1,0 +1,14 @@
+{
+  "name": "cc-course",
+  "version": "1.0.0",
+  "description": "Interactive Claude Code developer course with 6 modules covering foundations, security, skills, extensions, agents, and workflows",
+  "author": {
+    "name": "Vladyslav Prykhodko",
+    "url": "https://github.com/vprkhdk"
+  },
+  "repository": "https://github.com/vprkhdk/cc-course",
+  "license": "MIT",
+  "keywords": ["course", "tutorial", "learning", "training", "education"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
